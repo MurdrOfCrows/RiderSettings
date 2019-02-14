@@ -1,50 +1,50 @@
 <templateSet group="General">
-  <template name="constructor" value="        /********************************************************/&#10;        /*CONSTRUCTORS*******************************************/&#10;        /********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+  <template name="constructor" value="/********************************************************/&#10;/*CONSTRUCTORS*******************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="copyright" value="/**********************************************************&#10; *&#10; * Copyright (C) 2019, David Southall, All Rights Reserved.&#10; *&#10; *********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="copyright" value="/**********************************************************&#10; *&#10; * Copyright (C) 2019, David Southall, All Rights Reserved.&#10; *&#10; *********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="fields" value="        /********************************************************/&#10;        /*FIELDS*************************************************/&#10;        /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="fields" value="/********************************************************/&#10;/*FIELDS*************************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="finalizer" value="        /********************************************************/&#10;        /*FINALIZERS*********************************************/&#10;        /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="finalizer" value="/********************************************************/&#10;/*FINALIZERS*********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="prmethods" value="        /********************************************************/&#10;        /*PRIVATE METHODS****************************************/&#10;        /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="prmethods" value="/********************************************************/&#10;/*PRIVATE METHODS****************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="properties" value="        /********************************************************/&#10;        /*PROPERTIES*********************************************/&#10;        /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="properties" value="/********************************************************/&#10;/*PROPERTIES*********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="pumethods" value="        /********************************************************/&#10;        /*PUBLIC METHODS*****************************************/&#10;        /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="pumethods" value="/********************************************************/&#10;/*PUBLIC METHODS*****************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tests" value="        /********************************************************/&#10;        /*TESTS**************************************************/&#10;&#9;    /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="tests" value="/********************************************************/&#10;/*TESTS**************************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="testsetup" value="        /********************************************************/&#10;        /*TEST SETUP*********************************************/&#10;&#9;    /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="testsetup" value="/********************************************************/&#10;/*TEST SETUP*********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="testutility" value="        /********************************************************/&#10;        /*TEST UTILITY METHODS***********************************/&#10;&#9;    /********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="testutility" value="/********************************************************/&#10;/*TEST UTILITY METHODS***********************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
