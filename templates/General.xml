@@ -1,5 +1,5 @@
 <templateSet group="General">
-  <template name="constructor" value="/********************************************************/&#10;/*CONSTRUCTORS*******************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+  <template name="constructors" value="/********************************************************/&#10;/*CONSTRUCTORS*******************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
