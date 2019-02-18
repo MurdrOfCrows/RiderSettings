@@ -49,7 +49,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="nested" value="/********************************************************/&#10;/*NESTED CLASSES / STRUCTS*******************************/&#10;/********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="nested" value="/********************************************************/&#10;/*NESTED CLASSES / STRUCTS*******************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
