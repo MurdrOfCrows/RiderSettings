@@ -54,7 +54,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="monobehaviours" value="/********************************************************/&#10;/*MONOBEHAVIOUR METHODS**********************************/&#10;/********************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="monobehaviours" value="/********************************************************/&#10;/*MONOBEHAVIOUR METHODS**********************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
