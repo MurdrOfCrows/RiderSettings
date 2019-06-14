@@ -1,5 +1,5 @@
 <templateSet group="General">
-  <template name="constructor" value="/********************************************************/&#10;/*CONSTRUCTORS*******************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+  <template name="constructors" value="/********************************************************/&#10;/*CONSTRUCTORS*******************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
@@ -45,6 +45,21 @@
     </context>
   </template>
   <template name="testutility" value="/********************************************************/&#10;/*TEST UTILITY METHODS***********************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="nested" value="/********************************************************/&#10;/*NESTED CLASSES / STRUCTS*******************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="monobehaviours" value="/********************************************************/&#10;/*MONOBEHAVIOUR METHODS**********************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="operators" value="/********************************************************/&#10;/*OPERATORS**********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>

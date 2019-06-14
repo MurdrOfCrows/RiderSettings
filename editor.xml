@@ -1,6 +1,6 @@
 <application>
-  <component name="EditorSettings">
-    <option name="STRIP_TRAILING_SPACES" value="None" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Fira Code Light" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
 </application>
