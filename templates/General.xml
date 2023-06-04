@@ -1,0 +1,67 @@
+<templateSet group="General">
+  <template name="constructors" value="/********************************************************/&#10;/*CONSTRUCTORS*******************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="copyright" value="/**********************************************************&#10; *&#10; * Copyright (C) 2019, David Southall, All Rights Reserved.&#10; *&#10; *********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="fields" value="/********************************************************/&#10;/*FIELDS*************************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="finalizer" value="/********************************************************/&#10;/*FINALIZERS*********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="prmethods" value="/********************************************************/&#10;/*PRIVATE METHODS****************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="properties" value="/********************************************************/&#10;/*PROPERTIES*********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="pumethods" value="/********************************************************/&#10;/*PUBLIC METHODS*****************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tests" value="/********************************************************/&#10;/*TESTS**************************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="testsetup" value="/********************************************************/&#10;/*TEST SETUP*********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="testutility" value="/********************************************************/&#10;/*TEST UTILITY METHODS***********************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="nested" value="/********************************************************/&#10;/*NESTED CLASSES / STRUCTS*******************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="monobehaviours" value="/********************************************************/&#10;/*MONOBEHAVIOUR METHODS**********************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="operators" value="/********************************************************/&#10;/*OPERATORS**********************************************/&#10;/********************************************************/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
